@@ -1,0 +1,15 @@
+build/
+/mpc-lib/
+*.o
+*.a
+*.so
+*.exe
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+compile_commands.json
+*~
+*.swp
+.DS_Store
+.vscode/
